@@ -1,3 +1,8 @@
 bitbake-cookerdaemon.log
 cache/
 tmp/
+
+bitbake.lock
+conf/sanity_info
+nohup.out
+sstate-cache
