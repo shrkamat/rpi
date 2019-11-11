@@ -1,1 +1,4 @@
 RaspberryPI yocto linux
+
+Track specific branch
+git checkout -b thud --track origin/thud
